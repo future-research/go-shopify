@@ -1,4 +1,4 @@
-module github.com/future-research/go-shopify/v3
+module github.com/future-research/go-shopify
 
 go 1.13
 
